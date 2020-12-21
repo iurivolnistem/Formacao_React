@@ -32,3 +32,4 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 
 ## Certificados
 https://drive.google.com/file/d/1F8_HfXpo0amPNxXJWN-UzXewX0wOBK0a/view?usp=sharing
+https://drive.google.com/file/d/1F8_HfXpo0amPNxXJWN-UzXewX0wOBK0a/view?usp=sharing
