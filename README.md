@@ -15,6 +15,9 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 ***Condicionais***  
 ***laços de repetição***  
 
+### Certificado
+<img src="/imagens/primeiros_passos_js.png" width="500px">
+
 ### JavaScript - Programando a Orientação a Objetos 
 
 ***Classes***  
@@ -30,6 +33,5 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 ***Construtores***  
 ***Atributos estáticos***  
 
-## Certificados
-https://drive.google.com/file/d/1F8_HfXpo0amPNxXJWN-UzXewX0wOBK0a/view?usp=sharing
-https://drive.google.com/file/d/1SsGwYIBssZ0aBmkd4Fd3DJ4LMTw4m2JC/view
+### Certificado
+<img src="/imagens/orientacao_objetos.png" width="500px">
