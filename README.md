@@ -5,7 +5,7 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 
 
 ## Conteúdos
-### Primeiros passos com JavaScript
+### JavaScript - Primeiros passos com a linguagem 
 
 ***Variaveis***  
 ***Operações Aritméticas***  
