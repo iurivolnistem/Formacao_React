@@ -49,4 +49,4 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 ***Duck Type***  
 
 ### Certificado
-<img src="/imagens/orientacao_objetos.png" width="500px">
+<img src="/imagens/interfaces_herancas.png" width="500px">
