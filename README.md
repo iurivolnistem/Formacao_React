@@ -35,3 +35,18 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 
 ### Certificado
 <img src="/imagens/orientacao_objetos.png" width="500px">
+
+### JavaScript - Interfaces e Heranças em Orientação a Objetos 
+
+***Heranças***  
+***Super e Sobrescrito***  
+***Private e Protected***  
+***Classes abstratas***  
+***Métodos abstratos***  
+***Polimorfismo***  
+***Interfaces***  
+***Verificar propriedades e tipos com Instanceof***  
+***Duck Type***  
+
+### Certificado
+<img src="/imagens/orientacao_objetos.png" width="500px">
