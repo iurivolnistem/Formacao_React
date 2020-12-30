@@ -50,3 +50,19 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 
 ### Certificado
 <img src="/imagens/interfaces_herancas.png" width="500px">
+
+### Fetch API - Consumindo uma API Rest com JavaScript
+
+***Inserindo dados em um array***  
+***Template Literals***  
+***Cliente - Servidor***  
+***Requisições via Postman***  
+***Requisições com fetch***  
+***Consumindo dados da API***  
+***Eventos no formulário***  
+***Verbos HTPP - POST, GET, PUT e DELETE***  
+***Mensagens para o usuário***  
+
+### Certificado
+<img src="/imagens/interfaces_herancas.png" width="500px">
+
