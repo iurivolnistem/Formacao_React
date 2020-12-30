@@ -64,5 +64,5 @@ Lembrando, não sou iniciante na programação, o curso foi apenas para reciclag
 ***Mensagens para o usuário***  
 
 ### Certificado
-<img src="/imagens/interfaces_herancas.png" width="500px">
+<img src="/imagens/fetch_api.png" width="500px">
 
